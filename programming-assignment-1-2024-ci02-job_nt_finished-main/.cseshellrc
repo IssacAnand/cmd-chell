@@ -1,0 +1,3 @@
+PATH=/usr/local/bin:/usr/bin:/bin
+echo "Welcome to CSE Shell!"
+cal
